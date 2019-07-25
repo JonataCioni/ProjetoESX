@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PatrimoniosManagement.WebApi.WcfToken" CodeBehind="WcfToken.svc.cs" %>

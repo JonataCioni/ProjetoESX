@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="393e986f-f3d4-4ac1-a2d8-7286e457f419" ChangeDateTime="07/24/2019 00:06:19">
+    <Property Name="ElementName" Value="[dbo].[patrimonio].[marca_dataremocao]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[patrimonio]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="patrimonio_dataremocao" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="67736b63-c194-4601-bb4e-63f3eb30a7f9" ChangeDateTime="07/24/2019 00:07:10">
+    <Property Name="ElementName" Value="[dbo].[usuario].[marca_dataremocao]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[usuario]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="patrimonio_dataremocao" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e207cd9d-71d6-4916-a1fd-c4562b3b7cbf" ChangeDateTime="07/24/2019 00:07:15">
+    <Property Name="ElementName" Value="[dbo].[usuario].[patrimonio_dataremocao]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[usuario]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="usuario_dataremocao" />
+  </Operation>
+</Operations>

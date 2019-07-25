@@ -1,0 +1,72 @@
+23/07/2019 19:34:03	This log contains information about the import schema operation into project 'PatrimoniosManagement.Database' on computer 'JONATA-PC' by user 'jonat'.
+23/07/2019 19:34:03	Import of database schema has started.
+23/07/2019 19:34:08	Gathering database options
+23/07/2019 19:34:08	Gathering users
+23/07/2019 19:34:08	Gathering roles
+23/07/2019 19:34:08	Gathering application roles
+23/07/2019 19:34:08	Gathering role memberships
+23/07/2019 19:34:08	Gathering filegroups
+23/07/2019 19:34:08	Gathering full-text catalogs
+23/07/2019 19:34:08	Gathering assemblies
+23/07/2019 19:34:08	Gathering certificates
+23/07/2019 19:34:08	Gathering asymmetric keys
+23/07/2019 19:34:08	Gathering symmetric keys
+23/07/2019 19:34:08	Gathering encrypted symmetric keys
+23/07/2019 19:34:08	Gathering schemas
+23/07/2019 19:34:08	Gathering XML schema collections
+23/07/2019 19:34:08	Gathering user-defined data types
+23/07/2019 19:34:08	Gathering user-defined types
+23/07/2019 19:34:08	Gathering table types
+23/07/2019 19:34:08	Gathering unique keys for table types
+23/07/2019 19:34:08	Gathering primary keys for table types
+23/07/2019 19:34:08	Gathering check constraints for table types
+23/07/2019 19:34:08	Gathering default constraints for table types
+23/07/2019 19:34:08	Gathering partition functions
+23/07/2019 19:34:08	Gathering partition schemes
+23/07/2019 19:34:08	Gathering functions
+23/07/2019 19:34:08	Gathering encrypted functions
+23/07/2019 19:34:08	Gathering aggregates
+23/07/2019 19:34:08	Gathering procedures
+23/07/2019 19:34:08	Gathering encrypted procedures
+23/07/2019 19:34:08	Gathering tables
+23/07/2019 19:34:08	Gathering primary keys
+23/07/2019 19:34:08	Gathering unique constraints
+23/07/2019 19:34:08	Gathering foreign keys
+23/07/2019 19:34:08	Gathering default constraints
+23/07/2019 19:34:08	Gathering check constraints
+23/07/2019 19:34:08	Gathering views
+23/07/2019 19:34:08	Gathering encrypted views
+23/07/2019 19:34:08	Gathering indexes
+23/07/2019 19:34:08	Gathering statistics
+23/07/2019 19:34:08	Gathering full-text index stoplists
+23/07/2019 19:34:08	Gathering search property lists
+23/07/2019 19:34:08	Gathering search properties
+23/07/2019 19:34:08	Gathering full-text indexes
+23/07/2019 19:34:08	Gathering column store indexes
+23/07/2019 19:34:08	Gathering spatial indexes
+23/07/2019 19:34:08	Gathering XML indexes
+23/07/2019 19:34:08	Gathering encrypted triggers
+23/07/2019 19:34:08	Gathering triggers
+23/07/2019 19:34:08	Gathering encrypted and clr ddl triggers
+23/07/2019 19:34:08	Gathering ddl triggers
+23/07/2019 19:34:08	Gathering synonyms
+23/07/2019 19:34:08	Gathering defaults
+23/07/2019 19:34:08	Gathering data constraint uddt bindings
+23/07/2019 19:34:08	Gathering rules
+23/07/2019 19:34:08	Gathering data constraint uddt bindings
+23/07/2019 19:34:08	Gathering message types
+23/07/2019 19:34:08	Gathering queues
+23/07/2019 19:34:08	Gathering contracts
+23/07/2019 19:34:08	Gathering services
+23/07/2019 19:34:08	Gathering event notifications
+23/07/2019 19:34:08	Gathering remote service bindings
+23/07/2019 19:34:08	Gathering broker priorities
+23/07/2019 19:34:08	Gathering signatures
+23/07/2019 19:34:08	Gathering data compression options
+23/07/2019 19:34:08	Gathering sequence types
+23/07/2019 19:34:08	Gathering extended properties
+23/07/2019 19:34:09	Scanning project for duplicate elements
+23/07/2019 19:34:09	Finished duplicate element processing
+23/07/2019 19:34:09	Finished importing database.
+23/07/2019 19:34:09	A summary of the import was saved to the following location: C:\Users\jonat\source\repos\TesteGlobo\PatrimoniosManagement\PatrimoniosManagement.Database\Import Schema Logs\PatrimoniosManagemen_20190723103403.log
+23/07/2019 19:34:09	Click Finish to continue...
